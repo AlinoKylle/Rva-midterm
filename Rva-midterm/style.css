@@ -137,7 +137,7 @@
   .kyllesfried{
     position: absolute;
     font-family: "Archivo Black";
-    background: linear-gradient(to right, rgb(255, 98, 0), rgb(49, 53, 59));
+    background: linear-gradient(rgb(225, 14, 14), rgb(211, 7, 7));;
     background-clip: text;
     color: transparent;
     font-size:50px;
